@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -38,6 +36,4 @@
 
 ### :fire: Моя статистика :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amareigi)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amareigi&theme=github_dark&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amareigi&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
