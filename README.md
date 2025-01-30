@@ -16,7 +16,7 @@
 
 ## Обо мне 😄
 
-- 🌱 Сейчас я изучаю C/C++, golang, и Linux
+- 🌱 Сейчас я изучаю C/C++/Qt, golang, и Linux
 - 📫 Электронная почта: frostfeave92@gmail.com
 - 🤔 Я хочу изучить Go и C++ под Linux
 
@@ -30,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GoLang" **alt="GoLang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="C++" width="40" height="40"/>
 </div>
 
 ---
